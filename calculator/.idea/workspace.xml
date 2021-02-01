@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dfa17c5-2b0f-4826-b0d5-ce8e46fc56ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun2-calculator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun2-calculator" type="f1a62948:ProjectNode" />
+                <item name="progfun2-calculator" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun2-calculator" type="f1a62948:ProjectNode" />
+                <item name="progfun2-calculator" type="2d1252cf:ModuleNode" />
+                <item name="sbt tasks" type="d9357504:SbtViewContributor$SbtTasksGroupNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="progfun2-calculator" type="f1a62948:ProjectNode" />
+                <item name="progfun2-calculator-build" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nZ1qlsKWRLZM9J2LcfyLILUn4I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculatorSuite.tweetRemainingCharsCount$u0020with$u0020a$u0020constant$u0020signal">
+    <configuration name="CalculatorSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorSuite.tweetRemainingCharsCount$u0020with$u0020a$u0020constant$u0020signal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorSuite" />
+      <option name="METHOD_NAME" value="tweetRemainingCharsCount$u0020with$u0020a$u0020constant$u0020signal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorSuite.tweetRemainingCharsCount$u0027s$u0020result$u0020signal$u0020should$u0020follow$u0020the$u0020input$u0020signal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorSuite" />
+      <option name="METHOD_NAME" value="tweetRemainingCharsCount$u0027s$u0020result$u0020signal$u0020should$u0020follow$u0020the$u0020input$u0020signal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorSuite.tweetRemainingCharsCount$u0020with$u0020a$u0020constant$u0020signal" />
+        <item itemvalue="JUnit.CalculatorSuite.tweetRemainingCharsCount$u0027s$u0020result$u0020signal$u0020should$u0020follow$u0020the$u0020input$u0020signal" />
+        <item itemvalue="JUnit.CalculatorSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-calculator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="calculator [file:/Users/opg/scala/calculator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="webUI [file:/Users/opg/scala/calculator/]" />
+                <option name="path" value="$PROJECT_DIR$/web-ui" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="shared-sources" />
+                <option name="path" value="$PROJECT_DIR$/src/main/scala/calculator" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-calculator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9449000000000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1336039959" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-management" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-sample-cluster-docker-compose-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-samples-cluster-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-samples-distributed-data-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/cats-effect-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/demo-akka-persistence-jdbc" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/play-samples/play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../codecs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dfa17c5-2b0f-4826-b0d5-ce8e46fc56ce" name="Default Changelist" comment="" />
+      <created>1611582991546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611582991546</updated>
+      <workItem from="1611582994078" duration="247000" />
+      <workItem from="1611583254968" duration="5174000" />
+      <workItem from="1611616846489" duration="1377000" />
+      <workItem from="1611674480027" duration="3306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="697" y="323" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1611675428993">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="697" y="323" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611675428993" />
+    <state x="989" y="205" key="#xdebugger.evaluate" timestamp="1611676427349">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="989" y="205" key="#xdebugger.evaluate/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611676427349" />
+    <state width="1822" height="356" key="GridCell.Tab.0.bottom" timestamp="1611681197489">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.bottom/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1611589224589" />
+    <state width="1822" height="356" key="GridCell.Tab.0.bottom/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197489" />
+    <state width="1822" height="356" key="GridCell.Tab.0.center" timestamp="1611681197489">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.center/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1611589224588" />
+    <state width="1822" height="356" key="GridCell.Tab.0.center/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197489" />
+    <state width="1822" height="356" key="GridCell.Tab.0.left" timestamp="1611681197488">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.left/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1611589224584" />
+    <state width="1822" height="356" key="GridCell.Tab.0.left/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197488" />
+    <state width="1822" height="356" key="GridCell.Tab.0.right" timestamp="1611681197489">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.right/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1611589224589" />
+    <state width="1822" height="356" key="GridCell.Tab.0.right/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197489" />
+    <state width="1822" height="356" key="GridCell.Tab.1.bottom" timestamp="1611681197490">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="356" key="GridCell.Tab.1.bottom/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197490" />
+    <state width="1822" height="356" key="GridCell.Tab.1.center" timestamp="1611681197489">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="356" key="GridCell.Tab.1.center/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197489" />
+    <state width="1822" height="356" key="GridCell.Tab.1.left" timestamp="1611681197489">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="356" key="GridCell.Tab.1.left/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197489" />
+    <state width="1822" height="356" key="GridCell.Tab.1.right" timestamp="1611681197489">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="356" key="GridCell.Tab.1.right/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611681197489" />
+    <state x="-1480" y="222" key="SettingsEditor" timestamp="1611583810835">
+      <screen x="-1866" y="23" width="1866" height="1057" />
+    </state>
+    <state x="-1480" y="222" key="SettingsEditor/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1611583810835" />
+    <state x="618" y="308" width="683" height="486" key="find.popup" timestamp="1611675681252">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="618" y="308" width="683" height="486" key="find.popup/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611675681252" />
+    <state x="738" y="284" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1611675203831">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="738" y="284" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611675203831" />
+    <state x="623" y="256" width="672" height="678" key="search.everywhere.popup" timestamp="1611675468661">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="623" y="256" width="672" height="678" key="search.everywhere.popup/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1611675468661" />
+  </component>
+</project>

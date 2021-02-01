@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eee9481-5a5f-4647-950e-cbe31dda6089" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mYUxgzJ5jzHahzCvEn3gfmlNVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.BloxorzSuite">
+    <configuration name="BloxorzSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.BloxorzSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BloxorzSuite.optimal$u0020solution$u0020length$u0020for$u0020level$u00201$u0020$u00285pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.BloxorzSuite" />
+      <option name="METHOD_NAME" value="optimal$u0020solution$u0020length$u0020for$u0020level$u00201$u0020$u00285pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BloxorzSuite.suiteBloxorzSuite (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.BloxorzSuite" />
+      <option name="METHOD_NAME" value="suiteBloxorzSuite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BloxorzSuite.suiteBloxorzSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="streams" />
+      <option name="MAIN_CLASS_NAME" value="streams.BloxorzSuite" />
+      <option name="METHOD_NAME" value="suiteBloxorzSuite" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BloxorzSuite" />
+        <item itemvalue="JUnit.BloxorzSuite.optimal$u0020solution$u0020length$u0020for$u0020level$u00201$u0020$u00285pts$u0029" />
+        <item itemvalue="JUnit.BloxorzSuite.suiteBloxorzSuite (1)" />
+        <item itemvalue="JUnit.BloxorzSuite.suiteBloxorzSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-streams" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="streams [file:/Users/opg/scala/streams/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-streams-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429203076000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2949364946" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-management" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-sample-cluster-docker-compose-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-samples-cluster-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-samples-distributed-data-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/cats-effect-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/demo-akka-persistence-jdbc" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/play-samples/play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickcheck" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eee9481-5a5f-4647-950e-cbe31dda6089" name="Default Changelist" comment="" />
+      <created>1609670265372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609670265372</updated>
+      <workItem from="1609670267282" duration="8307000" />
+      <workItem from="1609690976854" duration="3972000" />
+      <workItem from="1609727707045" duration="598000" />
+      <workItem from="1609782459628" duration="598000" />
+      <workItem from="1609814284913" duration="598000" />
+      <workItem from="1609900263164" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1609694461416">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="100" y="123" width="1720" height="857" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694461416" />
+    <state width="1876" height="356" key="GridCell.Tab.0.bottom" timestamp="1609694960673">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.bottom/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1609679029949" />
+    <state width="1876" height="356" key="GridCell.Tab.0.bottom/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960673" />
+    <state width="1876" height="356" key="GridCell.Tab.0.center" timestamp="1609694960672">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.center/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1609679029949" />
+    <state width="1876" height="356" key="GridCell.Tab.0.center/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960672" />
+    <state width="1876" height="356" key="GridCell.Tab.0.left" timestamp="1609694960672">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.left/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1609679029949" />
+    <state width="1876" height="356" key="GridCell.Tab.0.left/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960672" />
+    <state width="1876" height="356" key="GridCell.Tab.0.right" timestamp="1609694960672">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="289" key="GridCell.Tab.0.right/-1866.23.1866.1057/0.23.1920.1057@-1866.23.1866.1057" timestamp="1609679029949" />
+    <state width="1876" height="356" key="GridCell.Tab.0.right/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960672" />
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom" timestamp="1609694960673">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.bottom/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960673" />
+    <state width="1876" height="356" key="GridCell.Tab.1.center" timestamp="1609694960673">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.center/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960673" />
+    <state width="1876" height="356" key="GridCell.Tab.1.left" timestamp="1609694960673">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.left/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960673" />
+    <state width="1876" height="356" key="GridCell.Tab.1.right" timestamp="1609694960673">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="356" key="GridCell.Tab.1.right/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1609694960673" />
+  </component>
+</project>

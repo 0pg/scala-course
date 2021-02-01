@@ -1,0 +1,170 @@
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Times has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Times: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Times.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Plus$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Plus$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Plus$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Ref$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Ref$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Ref$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Minus$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Minus$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Minus$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Divide$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Divide$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Divide$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Calculator$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Calculator$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Calculator$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Expr has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Expr: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Expr.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Ref has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Ref: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Ref.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Plus has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Plus: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Plus.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Divide has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Divide: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Divide.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Literal has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Literal: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Literal.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Signal$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Signal$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Signal$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Var$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Var$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Var$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.TweetLength$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.TweetLength$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.TweetLength$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Polynomial$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Polynomial$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Polynomial$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Signal has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Signal: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Signal.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Minus has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Minus: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Minus.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Var has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Var: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Var.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Literal$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Literal$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Literal$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe calculator.Times$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0m[0mdebug[0m] [0m[0mFiles invalidated by inheriting from (external) calculator.Times$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting direct dependencies of all classes transitively invalidated by inheritance.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting classes that directly depend on (external) calculator.Times$.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of calculator.CalculatorSuite. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/opg/scala/calculator/target/scala-2.13/test-classes/calculator/CalculatorSuite.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set(NamesChange(calculator.Times,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Plus$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Ref$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Minus$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Divide$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Calculator$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Expr,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Ref,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Plus,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Divide,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Literal,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Signal$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Var$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.TweetLength$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Polynomial$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Signal,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Minus,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Var,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Literal$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))), NamesChange(calculator.Times$,ModifiedNames(changes = UsedName(finalize,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(notify,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]))))[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/Users/opg/scala/calculator/target/scala-2.13/classes)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/opg/scala/calculator/src/test/scala/calculator/CalculatorSuite.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /Users/opg/scala/calculator/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.1:compile for Scala 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.1:compile for Scala 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1ee92d74 for Scala compiler version 2.13.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-language:implicitConversions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes:/Users/opg/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/opg/scala/calculator/target/scala-2.13/test-classes:/Users/opg/scala/calculator/target/scala-2.13/classes:/Users/opg/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar:/Users/opg/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.11/junit-4.11.jar:/Users/opg/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/opg/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.13/1.14.0/scalacheck_2.13-1.14.0.jar:/Users/opg/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/novocode/junit-interface/0.11/junit-interface-0.11.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.190688799 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m

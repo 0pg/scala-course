@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d332af2-d2f8-4ffd-8ada-6ddaca7d3f36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mpC4HzGDMtSR8mkP07KraLbZVN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in progfun2-codecs">
+    <configuration name="All in progfun2-codecs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-codecs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodecsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-codecs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codecs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codecs" />
+      <option name="MAIN_CLASS_NAME" value="codecs.CodecsSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodecsSuite.it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020lists$u0020$u00285pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-codecs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codecs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codecs" />
+      <option name="MAIN_CLASS_NAME" value="codecs.CodecsSuite" />
+      <option name="METHOD_NAME" value="it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020lists$u0020$u00285pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodecsSuite.it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020the$u0020$u0027Unit$u0027$u0020value$u0020$u00280pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun2-codecs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codecs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codecs" />
+      <option name="MAIN_CLASS_NAME" value="codecs.CodecsSuite" />
+      <option name="METHOD_NAME" value="it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020the$u0020$u0027Unit$u0027$u0020value$u0020$u00280pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in progfun2-codecs" />
+        <item itemvalue="JUnit.CodecsSuite.it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020lists$u0020$u00285pts$u0029" />
+        <item itemvalue="JUnit.CodecsSuite" />
+        <item itemvalue="JUnit.CodecsSuite.it$u0020is$u0020possible$u0020to$u0020encode$u0020and$u0020decode$u0020the$u0020$u0027Unit$u0027$u0020value$u0020$u00280pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-codecs" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="codecs [file:/Users/opg/scala/codecs/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-codecs-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1841609151" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-management" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-sample-cluster-docker-compose-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-samples-cluster-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/akka-samples-distributed-data-java" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/cats-effect-tutorial" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/demo-akka-persistence-jdbc" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/play-samples/play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d332af2-d2f8-4ffd-8ada-6ddaca7d3f36" name="Default Changelist" comment="" />
+      <created>1610180952827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610180952827</updated>
+      <workItem from="1610180956057" duration="719000" />
+      <workItem from="1610185467993" duration="8723000" />
+      <workItem from="1610318073324" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610185386983">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="423" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610185386983" />
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom" timestamp="1610209169442">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.bottom/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610209169442" />
+    <state width="1876" height="289" key="GridCell.Tab.0.center" timestamp="1610209169441">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.center/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610209169441" />
+    <state width="1876" height="289" key="GridCell.Tab.0.left" timestamp="1610209169441">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.left/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610209169441" />
+    <state width="1876" height="289" key="GridCell.Tab.0.right" timestamp="1610209169442">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1876" height="289" key="GridCell.Tab.0.right/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610209169442" />
+    <state x="460" y="190" key="SettingsEditor" timestamp="1610185440454">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="460" y="190" key="SettingsEditor/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610185440454" />
+    <state x="623" y="256" key="search.everywhere.popup" timestamp="1610186698654">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="623" y="256" key="search.everywhere.popup/-1866.23.1866.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1610186698654" />
+  </component>
+</project>

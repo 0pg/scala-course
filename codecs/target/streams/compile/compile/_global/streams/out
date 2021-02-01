@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/opg/scala/codecs/src/main/scala/codecs/codecs.scala:215:26: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Arr(_), Bool(_), Null, Num(_), Str(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    Decoder.fromFunction { case Json.Obj(obj) => obj(name).decodeAs }[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
